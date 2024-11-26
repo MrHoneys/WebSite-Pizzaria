@@ -1,0 +1,39 @@
+{
+    "pizzaDoce": {
+      "title": "Pizza Doce",
+      "items": [
+        { "name": "Chocolate ao Leite", "img": "https://invexo.com.br/blog/wp-content/uploads/2022/12/pizza-pizzaria-gavea-rio-de-janeiro.jpg" },
+        { "name": "Banana com Canela", "img": "https://invexo.com.br/blog/wp-content/uploads/2022/12/pizza-pizzaria-gavea-rio-de-janeiro.jpg" },
+        { "name": "Morango com Nutella", "img": "https://invexo.com.br/blog/wp-content/uploads/2022/12/pizza-pizzaria-gavea-rio-de-janeiro.jpg" },
+        { "name": "Romeu e Julieta", "img": "https://invexo.com.br/blog/wp-content/uploads/2022/12/pizza-pizzaria-gavea-rio-de-janeiro.jpg" }
+      ]
+    },
+    "pizzaSalgada": {
+      "title": "Pizza Salgada",
+      "items": [
+        { "name": "Calabresa", "img": "https://invexo.com.br/blog/wp-content/uploads/2022/12/pizza-pizzaria-gavea-rio-de-janeiro.jpg" },
+        { "name": "Marguerita", "img": "https://invexo.com.br/blog/wp-content/uploads/2022/12/pizza-pizzaria-gavea-rio-de-janeiro.jpg" },
+        { "name": "Portuguesa", "img": "https://invexo.com.br/blog/wp-content/uploads/2022/12/pizza-pizzaria-gavea-rio-de-janeiro.jpg" },
+        { "name": "Quatro Queijos", "img": "https://invexo.com.br/blog/wp-content/uploads/2022/12/pizza-pizzaria-gavea-rio-de-janeiro.jpg"}
+      ]
+    },
+    "pizzaEspecial": {
+      "title": "Pizza Especial",
+      "items": [
+        { "name": "Parma e Rúcula", "img": "https://invexo.com.br/blog/wp-content/uploads/2022/12/pizza-pizzaria-gavea-rio-de-janeiro.jpg" },
+        { "name": "Camarão Gourmet", "img": "https://invexo.com.br/blog/wp-content/uploads/2022/12/pizza-pizzaria-gavea-rio-de-janeiro.jpg" },
+        { "name": "Trufa Negra", "img": "https://invexo.com.br/blog/wp-content/uploads/2022/12/pizza-pizzaria-gavea-rio-de-janeiro.jpg" },
+        { "name": "Caprese", "img": "https://invexo.com.br/blog/wp-content/uploads/2022/12/pizza-pizzaria-gavea-rio-de-janeiro.jpg" }
+      ]
+    },
+    "bebidas": {
+      "title": "Bebidas",
+      "items": [
+        { "name": "Refrigerantes", "img": "https://invexo.com.br/blog/wp-content/uploads/2022/12/pizza-pizzaria-gavea-rio-de-janeiro.jpg" },
+        { "name": "Água com Gás", "img": "https://invexo.com.br/blog/wp-content/uploads/2022/12/pizza-pizzaria-gavea-rio-de-janeiro.jpg" },
+        { "name": "Vinho Tinto", "img": "https://invexo.com.br/blog/wp-content/uploads/2022/12/pizza-pizzaria-gavea-rio-de-janeiro.jpg" },
+        { "name": "Cerveja Artesanal", "img": "https://invexo.com.br/blog/wp-content/uploads/2022/12/pizza-pizzaria-gavea-rio-de-janeiro.jpg" }
+      ]
+    }
+  }
+  
