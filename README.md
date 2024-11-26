@@ -22,12 +22,12 @@ Este projeto é um website totalmente moderno para uma pizzaria, desenvolvido ut
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
+   git clone https://github.com/MrHoneys/WebSite-Pizzaria.git
    ```
 
 2. Acesse o diretório do projeto:
    ```bash
-   cd nome-do-diretorio
+   cd WebSite-Pizzaria
    ```
 
 3. Abra o arquivo `index.html` no seu navegador para visualizar o site.
