@@ -1,4 +1,3 @@
-![007](https://github.com/user-attachments/assets/7813461b-da24-4046-876c-33ade3593970)![004](https://github.com/user-attachments/assets/ef954fda-0adc-440a-bd1c-43a4b0483ea6)
 # Website de Pizzaria Moderno
 
 Este projeto é um website totalmente moderno para uma pizzaria, desenvolvido utilizando as mais recentes tecnologias e ferramentas. O site é leve, limpo e responsivo, proporcionando uma experiência intuitiva para os usuários.
