@@ -1,4 +1,4 @@
-
+![007](https://github.com/user-attachments/assets/7813461b-da24-4046-876c-33ade3593970)![004](https://github.com/user-attachments/assets/ef954fda-0adc-440a-bd1c-43a4b0483ea6)
 # Website de Pizzaria Moderno
 
 Este projeto é um website totalmente moderno para uma pizzaria, desenvolvido utilizando as mais recentes tecnologias e ferramentas. O site é leve, limpo e responsivo, proporcionando uma experiência intuitiva para os usuários.
@@ -39,3 +39,17 @@ Sinta-se à vontade para contribuir com melhorias, correções de bugs ou novas 
 ## Licença
 
 Este projeto está licenciado sob a [MIT License](LICENSE).
+
+## Imagems
+![001](https://github.com/user-attachments/assets/5fa5f3e9-9c6f-414d-a920-68b787c22e28)
+![002](https://github.com/user-attachments/assets/640b2b7b-2b81-40d4-be8f-9e43c4cfff57)
+![004](https://github.com/user-attachments/assets/851a12b3-1c75-4121-82e4-1b000831718c)
+![005](https://github.com/user-attachments/assets/f4a6f9f9-bc9c-4458-be08-e728eb5a2d42)
+![006](https://github.com/user-attachments/assets/c747cd3c-2e76-4bd9-809c-f9d89f4dcfe7)
+![007](https://github.com/user-attachments/assets/14272379-e080-417a-b8ff-295909a2fb67)
+![008](https://github.com/user-attachments/assets/758324a8-462a-4df1-bac2-fcd0fcef53ac)
+![009](https://github.com/user-attachments/assets/6e5247be-069d-47f1-8aa8-60733b7d4452)
+
+
+
+
